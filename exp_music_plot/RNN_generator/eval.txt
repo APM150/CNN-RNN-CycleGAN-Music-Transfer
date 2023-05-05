@@ -1,0 +1,12 @@
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataA_dist.csv
+0.9884200419698442
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataA_hat_dist.csv
+0.08291746114149906
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataA_tail_dist.csv
+0.9817511166845049
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataB_dist.csv
+0.9734151371887751
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataB_hat_dist.csv
+0.9999324517590659
+exp_music/JC_J_JC_C_Evaluation_2023_04_20_21_37_17/dataB_tail_dist.csv
+0.9997091208185468
